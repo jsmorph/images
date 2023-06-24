@@ -1,2 +1,2 @@
-# images
-Image hosting
+# Some images
+
